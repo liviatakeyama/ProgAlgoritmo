@@ -1,0 +1,6 @@
+nome = input("Qual seu nome?")
+print(f"Seja bem-vindo {nome}!")
+idade = int(input("Digite a sua idade: "))
+print(f"Daqui a 5 anos você terá {idade+5} anos.")
+ano = int(input("Qual o ano atual? "))
+print(f"Você nasceu em {ano-idade}.")
